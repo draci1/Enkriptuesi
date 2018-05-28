@@ -1,0 +1,10 @@
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\bin\Debug\Enkriptuesi.exe.config
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\bin\Debug\Enkriptuesi.exe
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\bin\Debug\Enkriptuesi.pdb
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.csprojResolveAssemblyReference.cache
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.Form1.resources
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.Properties.Resources.resources
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.csproj.GenerateResource.Cache
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.csproj.CoreCompileInputs.cache
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.exe
+C:\Users\Draci\source\repos\Enkriptuesi\Enkriptuesi\obj\Debug\Enkriptuesi.pdb
